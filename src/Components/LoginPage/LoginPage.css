@@ -1,0 +1,23 @@
+*{
+    box-sizing:border-box;
+}
+.form-group{
+    width:100px;
+    height:150px;
+    
+   align-self: center;
+ 
+    border: 1px solid red;
+}
+.label{
+    font-size:8px;
+    margin-bottom:0;
+    
+}
+.username, .password{
+   border: 1px solid black;
+   width:60px;
+   height:10px;
+   margin:0;
+   font-size: 5px;
+}
